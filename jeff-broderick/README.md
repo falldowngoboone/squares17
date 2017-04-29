@@ -4,24 +4,17 @@ Jeff Broderick
 ## What is a framework?
 Broad overview, outline, or skeleton of interlinked items which supports a particular approach to a specific objective.
 
-<figure>
-    ![Jeff's personal framework](images/IMG_0592.jpg)
-    <figcaption>Jeff's personal framework</figcaption>
-</figure>
+![Jeff's personal framework](images/IMG_0592.jpg)
+Jeff's personal framework
 
 They allow us to move faster, more consistently, in a scalable manner.
 
 They are modular.
 
-<figure>
-    ![A general framework (sorry about the quality)](images/IMG_0594.jpg)
-    <figcaption>A general framwork (sorry about the quality)</figcaption>
-</figure>
+![A general framework (sorry about the quality)](images/IMG_0594.jpg)
+A general framwork (sorry about the quality)
 
-<figure>
-    ![A product design framework](images/IMG_0599.jpg)
-    <figcaption>A product design framework</figcaption>
-</figure>
+![A product design framework](images/IMG_0599.jpg)
 
 ### Discover Framework
 * Personas
