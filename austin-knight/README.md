@@ -71,6 +71,6 @@ Collaboration and teamwork - big egos don't want collaboration; teams hate big e
 
 **Humility is the most important quality a designer can possess**
 
-[all slides + a video](uxd.to/design)
+[all slides + a video](https://austinknight.com/design-art-resources/)
 
 Another take on designers vs. artists: Artists find a story/problem and tell it/solve it. Designers are solving other people's problems and tell other people's stories.
