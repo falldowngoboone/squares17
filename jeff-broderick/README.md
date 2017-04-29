@@ -15,6 +15,7 @@ They are modular.
 A general framwork (sorry about the quality)
 
 ![A product design framework](images/IMG_0599.jpg)
+A product design framework
 
 ### Discover Framework
 * Personas
